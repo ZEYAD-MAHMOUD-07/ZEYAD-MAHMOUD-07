@@ -8,7 +8,7 @@
 
   
   <p align="center" style="color:white; font-size: 18px;">
-    <strong>ICPC Problem Solver ⚔</strong>
+    <strong>Problem Solver ⚔</strong>
   </p>
 
   

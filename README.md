@@ -8,7 +8,7 @@
 
   
   <p align="center" style="color:white; font-size: 18px;">
-    <strong>Problem Solver ⚔</strong>
+    <strong>Data Scientist 💻</strong>
   </p>
 
   
